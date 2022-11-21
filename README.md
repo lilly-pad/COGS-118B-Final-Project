@@ -1,5 +1,5 @@
 # COGS-118B-Final-Project
-\### Project status
+TODO
 
 - [ ] one
 - [ ] two
