@@ -7,6 +7,6 @@ TODO
 - [ ] __: select 2 not waldo pictures
 - [ ] __: put these two datasets into two files
 - [ ] __: PCA
-- [ ] __: reconstruction distance function
+- [ ] __: reconstruction distance function using https://machinelearningmastery.com/face-recognition-using-principal-component-analysis/
 - [ ] each of us write our steps in the methods section
 - [ ] if time permits, compare with another repo like https://github.com/tadejmagajna/HereIsWally
