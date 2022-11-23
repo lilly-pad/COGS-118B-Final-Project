@@ -1,7 +1,7 @@
 # COGS-118B-Final-Project
 TODO
 
-- [ ] Will: move 256 bw folder of waldo and not waldo .jpg files to this repo
+- [ ] Will: move 256 bw folder of waldo and not waldo .jpg files to this repo: https://drive.google.com/drive/folders/1mN1yF4WWtim-0xDm_7ThlQdD8046ZzoR?usp=sharing - I kept getting an error when I tried to upload the photos to this repo so heres link
 - [ ] Will: writing introduction of report
 - [ ] Taha: select 10-15 waldo .jpg files and select 2 not waldo .jpg files
 - [ ] \__need 2 ppl\__: vectorizing .jpgs to a matrix
