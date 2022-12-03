@@ -1,12 +1,4 @@
 # COGS-118B-Final-Project
-TODO
+## Finding Waldo
 
-- [ ] Will: move 256 bw folder of waldo and not waldo .jpg files to this repo: https://drive.google.com/drive/folders/1mN1yF4WWtim-0xDm_7ThlQdD8046ZzoR?usp=sharing - I kept getting an error when I tried to upload the photos to this repo so heres link
-- [ ] Cardiff: pictures from Drive is now in the repo (Dec 1st)
-- [ ] Will: writing introduction of report - https://docs.google.com/document/d/1DJ0gSuDZmDE9hunlMxxMmlTIJxlfYyfZBQP0IAdI448/edit?usp=sharing
-- [ ] Depracated, we will use all 31 Waldo pictures and whimsically choose 2 non-Waldo pictures [Taha: select 10-15 waldo .jpg files and select 2 not waldo .jpg files] (Dec 1st)
-- [ ] Cardiff: vectorizing .jpgs to a matrix (Dec 1st)
-- [ ] Sara: PCA
-- [ ] __: reconstruction distance function using https://machinelearningmastery.com/face-recognition-using-principal-component-analysis/
-- [ ] each of us write our steps in the methods section
-- [ ] if time permits, compare with another repo like https://github.com/tadejmagajna/HereIsWally
+In our project we will perform PCA analysis on images of the character Waldo from Where’s Waldo with the goal of identifying whether or not a test image is a picture of Waldo. Utilizing a dataset of black and white images of Waldo, we will reduce the dimensionality of the vectorized images by calculating the eigenvalues and eigenvectors of the original image in order to reconstruct an image of Waldo in a smaller subspace. Once the eigenface is constructed using x number of principal components, we will be able to calculate the Euclidean distance between this constructed image and test images of both Waldo and non-Waldo projected into the same subspace in order to identify if the image is a picture of Waldo. The goal of this project is to elaborate on the topic of PCA that was discussed in class and present it in a fun and interactive way.
